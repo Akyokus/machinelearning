@@ -1,0 +1,15 @@
+C:\Users\mehme\source\repos\machinelearning\bin\Debug\netcoreapp3.1\machinelearning.exe
+C:\Users\mehme\source\repos\machinelearning\bin\Debug\netcoreapp3.1\machinelearning.deps.json
+C:\Users\mehme\source\repos\machinelearning\bin\Debug\netcoreapp3.1\machinelearning.runtimeconfig.json
+C:\Users\mehme\source\repos\machinelearning\bin\Debug\netcoreapp3.1\machinelearning.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\machinelearning\bin\Debug\netcoreapp3.1\machinelearning.dll
+C:\Users\mehme\source\repos\machinelearning\bin\Debug\netcoreapp3.1\machinelearning.pdb
+C:\Users\mehme\source\repos\machinelearning\obj\Debug\netcoreapp3.1\machinelearning.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\machinelearning\obj\Debug\netcoreapp3.1\machinelearning.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\machinelearning\obj\Debug\netcoreapp3.1\machinelearning.AssemblyInfo.cs
+C:\Users\mehme\source\repos\machinelearning\obj\Debug\netcoreapp3.1\machinelearning.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\machinelearning\obj\Debug\netcoreapp3.1\machinelearning.dll
+C:\Users\mehme\source\repos\machinelearning\obj\Debug\netcoreapp3.1\machinelearning.pdb
+C:\Users\mehme\source\repos\machinelearning\obj\Debug\netcoreapp3.1\machinelearning.genruntimeconfig.cache
+C:\Users\mehme\source\repos\machinelearning\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\mehme\source\repos\machinelearning\obj\Debug\netcoreapp3.1\machinelearning.csproj.CopyComplete

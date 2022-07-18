@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wi1IoDVDvqusV5YU5+aP+dBvX3lR0mFBrjtFWXb7uSkBBHSf8M11FJwLuqvT4jQTd2teGzJ+yfo+dp1LoZZGlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mehme\\source\\repos\\machinelearning\\machinelearning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehme\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
